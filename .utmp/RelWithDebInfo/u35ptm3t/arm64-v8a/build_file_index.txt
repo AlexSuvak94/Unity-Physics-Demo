@@ -1,2 +1,0 @@
-C:\Users\AcaSuvak94\Desktop\Car Game - Copy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
-C:\Users\AcaSuvak94\Desktop\Car Game - Copy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
