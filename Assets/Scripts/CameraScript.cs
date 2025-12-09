@@ -10,6 +10,7 @@ public class CameraScript : MonoBehaviour
     {
         if (!target) return;
 
+        // Follow the car
         Vector3 desiredPosition = target.position + offset;
         transform.position = Vector3.Lerp(transform.position, desiredPosition, smoothSpeed * Time.deltaTime);
 
